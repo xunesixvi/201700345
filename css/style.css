@@ -195,6 +195,7 @@ hr {
     height: 110px;
     margin-top: 10px;
     border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 .over {transition-duration: 0.4s; }
 .over:hover{
